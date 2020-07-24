@@ -10,6 +10,7 @@ class MediaClass extends Component {
                 <img
                     width={64}
                     height={64}
+                    className="mr-3"
                     src="https://lh3.googleusercontent.com/proxy/HSppeTVlQb4J0DhLWPc0afmdV001MVDzjpNekpQq8aruesAngAT0WfIN7xiSiKxHwAEq2TAdWTEDjSGMXK-xW_ode04AicArZVXN68c"
                     alt="IMage HERE"
                 />
